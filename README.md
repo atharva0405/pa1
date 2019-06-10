@@ -79,6 +79,8 @@ $./second file4.txt
 error
 
 
+
+
 Third: Hash table (20 points)
 In this part, you will implement a hash table containing integers. The hash table has 10,000 buckets.
 An important part of a hash table is collision resolution. In this assignment, we want you to use
@@ -125,6 +127,8 @@ $./third file2.txt
 2
 
 
+
+
 Fourth: Matrix Multiplication (20 Points)
 This program will test your ability to manage memory using malloc() and provide some experience
 dealing with 2D arrays in C.
@@ -160,6 +164,8 @@ You can assume all your input files will be in proper format as above with no ma
 For matrices that cannot be multiplied your program should output “bad-matrix”.
 
 
+
+
 Fifth: String Operations II (10 points)
 The fifth part requires you to read an input string representing a sentence, form a word whose
 letters are all the vowels in the given sentence, and print it.
@@ -175,6 +181,8 @@ eoeo
 
 $./fifth Rutgers Scarlet Knights
 ueaei
+
+
 
 
 Sixth: Binary Search Tree (20 points)
