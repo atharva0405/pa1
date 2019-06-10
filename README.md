@@ -12,7 +12,9 @@ sort functions. You should write your own sort function.
 
 Input-Output format: Your program will take the file name as input. The first line in the file
 provides the total number of values in the array. The second line will contain a list of numbers
-separated by tabs. For example a sample input file “file1.txt” is:
+separated by tabs. 
+
+For example a sample input file “file1.txt” is:
 6
 25 10 1 99 4 2
 
